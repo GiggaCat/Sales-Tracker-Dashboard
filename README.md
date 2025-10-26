@@ -6,7 +6,7 @@ An **interactive Excel dashboard** designed to visualize and manage sales perfor
 
 ## 🖼️ Dashboard Preview
 
-<img height="500px" src="Sales Tracker.png">
+<img height="400px" src="Screenshot 2025-10-26 143511.png">
 
 ---
 
@@ -57,7 +57,7 @@ It helps businesses make **data-driven decisions** by providing visual insights 
 ## 🚀 How to Use
 
 1. Download or clone this repository.  
-2. Open the file `Sales_Tracker_Dashboard.xlsx` in **Microsoft Excel**.  
+2. Open the file `Sales-Tracker.xlsx` in **Microsoft Excel**.  
 3. Use the **filter panel** on the left to adjust:
    - Customer Type  
    - Payment Type  
@@ -70,7 +70,7 @@ It helps businesses make **data-driven decisions** by providing visual insights 
 
 | File Name | Description | Format |
 |------------|--------------|---------|
-| `Sales_Tracker_Dashboard.xlsx` | Interactive Excel dashboard | `.xlsx` |
+| `Sales-Tracker.xlsx` | Interactive Excel dashboard | `.xlsx` |
 | `Screenshot 2025-10-26 143511.png` | Dashboard preview image | `.png` |
 
 ---
