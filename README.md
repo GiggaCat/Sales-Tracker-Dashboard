@@ -6,7 +6,7 @@ An **interactive Excel dashboard** designed to visualize and manage sales perfor
 
 ## 🖼️ Dashboard Preview
 
-![Sales Tracker Dashboard Screenshot](Screenshot%202025-10-26%20143511.png)
+<img height="500px" src="Sales Tracker.png">
 
 ---
 
